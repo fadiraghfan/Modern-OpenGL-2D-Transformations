@@ -1,0 +1,13 @@
+F:\Teaching\Sem1\ACG\Lab4\Lab4_start\Lab4\Debug\ACG_Lab4.exe
+F:\Teaching\Sem1\ACG\Lab4\Lab4_start\Lab4\Debug\ACG_Lab4.pdb
+C:\Users\40758\Desktop\ACG\Lab4\Debug\ACG_Lab4.exe
+C:\Users\Rami\Desktop\Lab4\Debug\ACG_Lab4.exe
+C:\Users\40758\Desktop\Lab4\Debug\ACG_Lab4.exe
+C:\Users\40758\Desktop\hw\Debug\ACG_Lab4.exe
+C:\Users\40758\Desktop\hw - Copy\Debug\BigBoy1.exe
+C:\Users\40758\Desktop\BigBoy1\Debug\BigBoy1.exe
+C:\Users\40758\Desktop\done\BigBoy1\Debug\BigBoy1.exe
+C:\Users\40758\Desktop\BigBoys\BigBoy1\Debug\BigBoy1.exe
+C:\Users\40758\Desktop\BigBoys - Copy\BigBoy1\Debug\BigBoy1.exe
+C:\Users\40758\Desktop\teamp\BigBoys\BigBoy1\Debug\BigBoy1.exe
+C:\Users\40758\Desktop\ACG\BigBoys\BigBoys\BigBoy1\Debug\BigBoy1.exe
